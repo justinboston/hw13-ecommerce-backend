@@ -1,2 +1,1 @@
-# hw13-ecommerce-backend
-Module 13 Challenge: (ORM) E-commerce Back End
+# E-commerce Back End Starter Code
